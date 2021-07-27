@@ -9,8 +9,7 @@ const {authMiddleware} = require('./utils/auth');
 
 //db connection
 const db = require('./config/connection');
-
-// const routes = require('./routes'
+const routes = require('./routes');
 
 //express server
 const app = express();
@@ -35,7 +34,7 @@ if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../client/build')));
 }
 
-// app.use(routes);
+app.use(routes);
 
 //get all
 app.get('*', (req, res) => {
