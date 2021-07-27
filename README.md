@@ -24,10 +24,7 @@ Click [here!](https://booksengine.herokuapp.com/)
 
 ## Take A Look
 
-![This is the landing page for the tracker.](https://github.com/ferick8246/Budget-Tracker-/blob/a001023f54c6489a6ff4be3acba64369a2bfcd90/Budget.PNG)
-
-
-![This is the dashboard with workout data](https://github.com/ferick8246/Budget-Tracker-/blob/a001023f54c6489a6ff4be3acba64369a2bfcd90/Budget2.PNG)
+![This is the homepage to look up books](https://github.com/ferick8246/Book-Search-Engine/blob/9b5c7426581a1c00ef2024e6f6fe6956bdeb25c4/Books.PNG)
 
 ## Questions
 
