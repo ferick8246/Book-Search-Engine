@@ -10,8 +10,10 @@
 * [Take A Look](#take-a-look)
 * [Questions](#questions)
 ## Description
+The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API. It's set up to allow users to save book searches to the back end. The application is built using Google Books API search engine build with GraphQL API and Apollo Server.
 
-In this repository, I have built a Budget Tracker application utilizing IndexedDb. The main focus of this unit was Progressive Web Applications (PWA's) and this application allows for online/offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+This project was bootstrapped with Create React App.
+
 
 ## Heroku Deployed
 
