@@ -21,6 +21,16 @@ Click [here!](https://booksengine.herokuapp.com/)
 
 ## Usage
 
+GIVEN a book search engine
+WHEN I load the search engine
+THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
+WHEN I click on the Search for Books menu option
+THEN I am presented with an input field to search for books and a submit button
+WHEN I am not logged in and enter a search term in the input field and click the submit button
+THEN I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site
+WHEN I click on the Login/Signup menu option
+
+
 
 ## Take A Look
 
@@ -32,9 +42,3 @@ For more content, check out my [GitHub](https://github.com/ferick8246)!
 
 Any questions regarding this project can be sent to ferick8246@gmail.com
 
-# Heroku
-
-
-
-
-# Questions?
